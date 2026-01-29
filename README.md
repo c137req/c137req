@@ -3,6 +3,6 @@
 
 `golang`, `python`, `js/ts`, `bash`, `and about 20 other things`
 
-`senior engineer`: `mickey services` [>](https://github.com/mickey-services)
+`software engineer`: `mickey services` [>](https://github.com/mickey-services)
 
 `researcher`: `ud2` [>](https://ud2.rip)
