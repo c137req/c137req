@@ -1,2 +1,8 @@
 # req c137
-automating tasks, pentesting, breaking things and helping fix them yay - i write pocs for fun when bored
+`6` `years` `of` `hacking` `and` `coding` `experience` `compiled` `into` `1 person`
+
+`golang`, `python`, `js/ts`, `bash`, `and about 20 other things`
+
+`senior engineer`: `mickey services` [>](https://github.com/mickey-services)
+
+`researcher`: `ud2` [>](https://ud2.rip)
