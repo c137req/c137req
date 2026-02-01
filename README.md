@@ -5,4 +5,4 @@
 
 `software engineer`: `mickey services` [>](https://github.com/mickey-services)
 
-`researcher`: `ud2` [>](https://ud2.rip)
+`researcher`: `ud2` [>](https://github.com/0ud2)
