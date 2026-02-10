@@ -9,4 +9,4 @@
 
 [`want a public reverse proxy that calls out instead of listening in?`](https://github.com/c137req/rprt)
 
-[`want a universal data parsing?`](https://github.com/miyakoyakota/wtf)
+[`want a universal data parser?`](https://github.com/miyakoyakota/wtf)
