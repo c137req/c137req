@@ -7,4 +7,4 @@
 
 [`want a public reverse proxy that calls out instead of listening in?`](https://github.com/c137req/rprt)
 
-[`want a universal data parser?`](https://github.com/miyakoyakota/wtf) ([Miyako](https://github.com/miyakoyakota) is cool go check them out)
+[`want a universal data parser?`](https://github.com/miyakoyakota/wtf) <sup>[`Miyako`](https://github.com/miyakoyakota) `is` `cool` `go` `check` `them` `out`</sup>
